@@ -1,0 +1,1 @@
+C:\Spark>.\bin\spark-submit "C:\Users\SATHYA\Documents\clickstream_data_processing.py"
