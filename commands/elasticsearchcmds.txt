@@ -1,0 +1,9 @@
+LogStash server start:
+C:\Users\SATHYA\Desktop\elk_couseudemy\logstash-6.3.2>.\bin\logstash.bat -f C:\Users\SATHYA\Desktop\elk_couseudemy\data\userkafkaspark.conf
+
+ElasticSearch server start:
+C:\Users\SATHYA\Desktop\elk_couseudemy\elasticsearch-6.3.2>.bin\elasticsearch.bat
+
+Kibana server start:
+C:\Users\SATHYA\Desktop\elk_couseudemy\kibana-6.3.2-windows-x86_64>.\bin\kibana.bat
+
